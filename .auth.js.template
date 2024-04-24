@@ -1,0 +1,12 @@
+const auth = {
+  twilioAccountSid: '',
+  twilioAuthToken: '',
+  twilioSendFrom: '+44...',
+  twilioSendTo: '+44...',
+  captchaApiKey: '',
+  wimbledonEmail: '',
+  wimbledonPass: '',
+  chromePath: '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome',
+};
+
+export default auth;

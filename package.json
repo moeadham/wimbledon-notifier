@@ -1,0 +1,21 @@
+{
+  "name": "wimbledon-notifier",
+  "version": "1.0.0",
+  "description": "get notified when wimbledon resale tickets are available.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "2captcha": "^3.0.5-2",
+    "node-fetch": "^3.3.2",
+    "promise-poller": "^1.9.1",
+    "puppeteer": "^22.7.0",
+    "request-promise-native": "^1.0.9",
+    "twilio": "^5.0.4"
+  },
+  "type": "module"
+}
