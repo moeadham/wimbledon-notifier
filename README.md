@@ -31,7 +31,7 @@ brew install --cask google-chrome
 ## Setup wimbledon notifier
 
 ```
-git clone git@github.com:moeadham/wimbledon-notifier.git
+git clone https://github.com/moeadham/wimbledon-notifier.git
 cd wimbledon-notifier
 cp .auth.js.template .auth.js
 open -e .auth.js
